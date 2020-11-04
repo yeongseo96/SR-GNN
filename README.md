@@ -1,4 +1,4 @@
-# SR-GNN
+# SR-GNN (HI)
 
 ## Paper data and code
 
